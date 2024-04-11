@@ -1,0 +1,24 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    color: white;
+}
+#navbar {
+height: 60px;
+background-color: #0f1111;
+}
+button{
+    background-color: #a54ab1;
+}
+#logo {
+    color: #a54ab1;
+    font-size: 25px ;
+}
+a { margin-right: 200px;
+text-decoration: none;}
+#content { height: 900px; }
+footer { 
+    background-color: #444747;
+    text-align: center;
+
+}
